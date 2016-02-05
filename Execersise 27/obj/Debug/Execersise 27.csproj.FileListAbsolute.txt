@@ -1,0 +1,9 @@
+c:\users\mouha\documents\visual studio 2015\Projects\Execersise 27\Execersise 27\bin\Debug\Execersise 27.exe.config
+c:\users\mouha\documents\visual studio 2015\Projects\Execersise 27\Execersise 27\obj\Debug\Execersise 27.csprojResolveAssemblyReference.cache
+c:\users\mouha\documents\visual studio 2015\Projects\Execersise 27\Execersise 27\bin\Debug\Execersise 27.exe
+c:\users\mouha\documents\visual studio 2015\Projects\Execersise 27\Execersise 27\bin\Debug\Execersise 27.pdb
+c:\users\mouha\documents\visual studio 2015\Projects\Execersise 27\Execersise 27\obj\Debug\Execersise 27.exe
+c:\users\mouha\documents\visual studio 2015\Projects\Execersise 27\Execersise 27\obj\Debug\Execersise 27.pdb
+C:\Users\w_soo\OneDrive\sharecode\Execersise 27\Execersise 27\bin\Debug\Execersise 27.exe.config
+C:\Users\w_soo\OneDrive\sharecode\Execersise 27\Execersise 27\obj\Debug\Execersise 27.exe
+C:\Users\w_soo\OneDrive\sharecode\Execersise 27\Execersise 27\obj\Debug\Execersise 27.pdb
